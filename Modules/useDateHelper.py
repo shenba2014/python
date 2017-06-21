@@ -1,3 +1,3 @@
 from dateHelper import dateModule
 
-print dateModule.getDayOfWeek(2017, 6, 14)
+print dateModule.getDayOfWeek("2017-06-11")
